@@ -1,0 +1,16 @@
+--cpu=Cortex-M4.fp.sp
+".\objects\dio.o"
+".\objects\gpio.o"
+".\objects\gpt.o"
+".\objects\intctrl.o"
+".\objects\main.o"
+".\objects\app.o"
+".\objects\gpio_lcfg.o"
+".\objects\gpt_lcfg.o"
+".\objects\intctrl_lcfg.o"
+".\objects\startup_tm4c123.o"
+".\objects\system_tm4c123.o"
+--strict --scatter ".\Objects\arm_FWD_BlinkingLED.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\arm_FWD_BlinkingLED.map" -o .\Objects\arm_FWD_BlinkingLED.axf

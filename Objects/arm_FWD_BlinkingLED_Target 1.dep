@@ -1,0 +1,98 @@
+Dependencies for Project 'arm_FWD_BlinkingLED', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\FWD_ARM\Src\Mcal\DIO.c)(0x632CAE68)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\dio.o --omf_browse .\objects\dio.crf --depend .\objects\dio.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\DIO.h)(0x632CAE57)
+I (.\FWD_ARM\Src\Mcal\Inc\DIO_Types.h)(0x632CAE23)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO_Types.h)(0x632CADED)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (.\FWD_ARM\Src\Mcal\GPIO.c)(0x632A254F)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO.h)(0x632A2CAB)
+I (.\FWD_ARM\Src\Config\Gpio_Cfg.h)(0x632A2B98)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO_Types.h)(0x632CADED)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (.\FWD_ARM\Src\Mcal\GPT.c)(0x632CA5C0)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\gpt.o --omf_browse .\objects\gpt.crf --depend .\objects\gpt.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT.h)(0x632CB3FA)
+I (.\FWD_ARM\Src\Config\GPT_Cfg.h)(0x632A6AB3)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT_Types.h)(0x632CA84E)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (.\FWD_ARM\Src\Mcal\IntCtrl.c)(0x63233512)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\intctrl.o --omf_browse .\objects\intctrl.crf --depend .\objects\intctrl.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\IntCtrl.h)(0x632A2844)
+I (.\FWD_ARM\Src\Config\IntCtrl_Cfg.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\IntCtrl_Types.h)(0x632A2846)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (.\FWD_ARM\Src\Appl\main.c)(0x632CAB0C)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\IntCtrl.h)(0x632A2844)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Config\IntCtrl_Cfg.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\IntCtrl_Types.h)(0x632A2846)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO.h)(0x632A2CAB)
+I (.\FWD_ARM\Src\Config\Gpio_Cfg.h)(0x632A2B98)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO_Types.h)(0x632CADED)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT.h)(0x632CB3FA)
+I (.\FWD_ARM\Src\Config\GPT_Cfg.h)(0x632A6AB3)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT_Types.h)(0x632CA84E)
+I (FWD_ARM\Src\Appl\app.h)(0x632CAEA1)
+I (.\FWD_ARM\Src\Mcal\Inc\DIO.h)(0x632CAE57)
+I (.\FWD_ARM\Src\Mcal\Inc\DIO_Types.h)(0x632CAE23)
+F (.\FWD_ARM\Src\Appl\app.c)(0x632CAEA3)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\app.o --omf_browse .\objects\app.crf --depend .\objects\app.d)
+I (FWD_ARM\Src\Appl\app.h)(0x632CAEA1)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+I (.\FWD_ARM\Src\Mcal\Inc\DIO.h)(0x632CAE57)
+I (.\FWD_ARM\Src\Mcal\Inc\DIO_Types.h)(0x632CAE23)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO_Types.h)(0x632CADED)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT.h)(0x632CB3FA)
+I (.\FWD_ARM\Src\Config\GPT_Cfg.h)(0x632A6AB3)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT_Types.h)(0x632CA84E)
+F (.\FWD_ARM\Src\Config\Gpio_Lcfg.c)(0x632CADDF)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\gpio_lcfg.o --omf_browse .\objects\gpio_lcfg.crf --depend .\objects\gpio_lcfg.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO.h)(0x632A2CAB)
+I (.\FWD_ARM\Src\Config\Gpio_Cfg.h)(0x632A2B98)
+I (.\FWD_ARM\Src\Mcal\Inc\GPIO_Types.h)(0x632CADED)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (.\FWD_ARM\Src\Config\GPT_Lcfg.c)(0x632CA81E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\gpt_lcfg.o --omf_browse .\objects\gpt_lcfg.crf --depend .\objects\gpt_lcfg.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT.h)(0x632CB3FA)
+I (.\FWD_ARM\Src\Config\GPT_Cfg.h)(0x632A6AB3)
+I (.\FWD_ARM\Src\Mcal\Inc\GPT_Types.h)(0x632CA84E)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (.\FWD_ARM\Src\Config\IntCtrl_Lcfg.c)(0x632CAF72)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\intctrl_lcfg.o --omf_browse .\objects\intctrl_lcfg.crf --depend .\objects\intctrl_lcfg.d)
+I (.\FWD_ARM\Src\Common\Std_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Platform_Types.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Common\Compiler.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\IntCtrl.h)(0x632A2844)
+I (.\FWD_ARM\Src\Config\IntCtrl_Cfg.h)(0x631E3DC0)
+I (.\FWD_ARM\Src\Mcal\Inc\IntCtrl_Types.h)(0x632A2846)
+I (.\FWD_ARM\Src\Common\Mcu_Hw.h)(0x632CB387)
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B6E406)(--cpu Cortex-M4.fp.sp -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550A65DA)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -g -O0 --apcs=interwork --split_sections -I .\FWD_ARM\Src\Common -I .\FWD_ARM\Src\Config -I .\FWD_ARM\Src\Mcal\Inc-I.\RTE\_Target_1-IC:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B2678)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EF2F6)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550FE22C)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h)(0x626F9F3E)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F9F3E)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F9F3E)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F9F3E)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626F9F3E)
+I (C:\Users\OmenTix\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B6E406)

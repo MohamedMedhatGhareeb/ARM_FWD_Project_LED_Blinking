@@ -1,0 +1,9 @@
+.\objects\gpt.o: FWD_ARM\Src\Mcal\GPT.c
+.\objects\gpt.o: .\FWD_ARM\Src\Common\Std_Types.h
+.\objects\gpt.o: .\FWD_ARM\Src\Common\Platform_Types.h
+.\objects\gpt.o: .\FWD_ARM\Src\Common\Compiler.h
+.\objects\gpt.o: .\FWD_ARM\Src\Mcal\Inc\GPT.h
+.\objects\gpt.o: .\FWD_ARM\Src\Config\GPT_Cfg.h
+.\objects\gpt.o: .\FWD_ARM\Src\Mcal\Inc\GPT.h
+.\objects\gpt.o: .\FWD_ARM\Src\Mcal\Inc\GPT_Types.h
+.\objects\gpt.o: .\FWD_ARM\Src\Common\Mcu_Hw.h

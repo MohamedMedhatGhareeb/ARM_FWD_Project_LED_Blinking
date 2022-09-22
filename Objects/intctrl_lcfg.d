@@ -1,0 +1,9 @@
+.\objects\intctrl_lcfg.o: FWD_ARM\Src\Config\IntCtrl_Lcfg.c
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Common\Std_Types.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Common\Platform_Types.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Common\Compiler.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Mcal\Inc\IntCtrl.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Config\IntCtrl_Cfg.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Mcal\Inc\IntCtrl.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Mcal\Inc\IntCtrl_Types.h
+.\objects\intctrl_lcfg.o: .\FWD_ARM\Src\Common\Mcu_Hw.h

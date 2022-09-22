@@ -1,0 +1,13 @@
+.\objects\app.o: FWD_ARM\Src\Appl\app.c
+.\objects\app.o: FWD_ARM\Src\Appl\app.h
+.\objects\app.o: .\FWD_ARM\Src\Common\Std_Types.h
+.\objects\app.o: .\FWD_ARM\Src\Common\Platform_Types.h
+.\objects\app.o: .\FWD_ARM\Src\Common\Compiler.h
+.\objects\app.o: .\FWD_ARM\Src\Common\Mcu_Hw.h
+.\objects\app.o: .\FWD_ARM\Src\Mcal\Inc\DIO.h
+.\objects\app.o: .\FWD_ARM\Src\Mcal\Inc\DIO_Types.h
+.\objects\app.o: .\FWD_ARM\Src\Mcal\Inc\GPIO_Types.h
+.\objects\app.o: .\FWD_ARM\Src\Mcal\Inc\GPT.h
+.\objects\app.o: .\FWD_ARM\Src\Config\GPT_Cfg.h
+.\objects\app.o: .\FWD_ARM\Src\Mcal\Inc\GPT.h
+.\objects\app.o: .\FWD_ARM\Src\Mcal\Inc\GPT_Types.h
