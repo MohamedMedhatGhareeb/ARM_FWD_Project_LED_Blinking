@@ -687,18 +687,18 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       160         34          0         33          0       2144   app.o
-      1468         40          0          0          0       6813   dio.o
-     11308        198          0          0          0       6696   gpio.o
-         0          0         35          0          0        770   gpio_lcfg.o
-      2144        256          0          1          0       7689   gpt.o
-         0          0         32          0         12        826   gpt_lcfg.o
-        60         18          0          0          0        511   main.o
-       276         24        620          0        512       5504   startup_tm4c123.o
-       152         40          0          0          0       3681   system_tm4c123.o
+       160         34          0         33          0       2260   app.o
+      1468         40          0          0          0       6989   dio.o
+     11308        198          0          0          0       6756   gpio.o
+         0          0         35          0          0        826   gpio_lcfg.o
+      2144        256          0          1          0       8029   gpt.o
+         0          0         32          0         12        882   gpt_lcfg.o
+        60         18          0          0          0        539   main.o
+       276         24        620          0        512       5532   startup_tm4c123.o
+       152         40          0          0          0       3709   system_tm4c123.o
 
     ----------------------------------------------------------------------
-     15568        610        722         44        524      34634   Object Totals
+     15568        610        722         44        524      35522   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          0          0          3         10          0          0   (incl. Padding)
 
@@ -749,8 +749,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     15862        626        722         44        620      33778   Grand Totals
-     15862        626        722         44        620      33778   ELF Image Totals
+     15862        626        722         44        620      34666   Grand Totals
+     15862        626        722         44        620      34666   ELF Image Totals
      15862        626        722         44          0          0   ROM Totals
 
 ==============================================================================
